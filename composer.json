@@ -1,5 +1,5 @@
 {
-    "name": "fbao/aliyun-sms",
+    "name": "fbao/ali-sms",
     "description": "阿里云官方短信sdk",
     "type": "library",
     "license": "MIT",

@@ -1,0 +1,24 @@
+{
+    "name": "fbao/aliyun-sms",
+    "description": "阿里云官方短信sdk",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "baofan",
+            "email": "1055441929@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "guzzlehttp/guzzle": "^6.3",
+        "psr/log": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "fbao\\": "src/"
+        }
+    }
+}
